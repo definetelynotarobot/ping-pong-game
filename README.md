@@ -21,5 +21,8 @@ Ping Pong Game made for Game Programming Lessons
 ### Katkıda bulunduğum ve geliştirdiğim scriptler: AraMenu_sc.cs ve Player2_sc.cs
 ### Diğer kısımlar ise grup arkadaşım Mustafa tarafından geliştirilmiştir.
 
+##Oyunumuzun simmer.io platformuna yüklenmiş linki aşağıda bulunmaktadır.
+###https://simmer.io/@pingpongg/ping-pong
+
 
 
